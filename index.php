@@ -1,8 +1,11 @@
 ﻿<?php
 
+session_start();
+
+$mysqli = new mysqli('127.0.0.1', 'root', '', 'MySite');
 include("head.php");
 include("header.php");
-
+include("aside.php");
 
 
 if(isset($_GET["s"])) $s=$_GET["s"];
@@ -25,14 +28,15 @@ switch($s)
     case 5:
         include "content/contact.php";
         break;
+    case 228:
+        include "content/add_article.php";
+        break;
     default: include "body.php";
         break;
 }
 
-// include("body.php");
-include("aside.php");
+
 include("footer.php");
 
-
-
+$mysqli->close();
 ?>

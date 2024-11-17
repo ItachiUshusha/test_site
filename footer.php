@@ -31,7 +31,7 @@
 			<p>Nisl vestibulum ex, quis lectus elit consequatur, per lobortis ipsum, sit in id nunc vitae felis. Ut quae pellentesque vitae vel ligula, non quis quis quam, ante orci lectus tortor sapien sed aliquam, neque nam vehicula.</p>
 			<p>Iaculis et quis, sociosqu aenean pulvinar metus, sed quis, sagittis a, at volutpat tempor.</p>
 		</section>
-	<p class=copyright>Copyright &copy; 2010 <strong>Fictive Company</strong>. All Rights Reserved.</p>
+	<p class=copyright>Copyright &copy; 2024 <strong>BoolShiiitEntertainmant</strong>. All Rights Reserved.</p>
 </footer>
 </div>
 </body>
